@@ -6,15 +6,19 @@
 
 ###
 
-<h2 align="left">🌟 About Me</h2>
+🌟 **About Me**
 
 ###
+
+<img align="right" height="200" src="https://i.imgur.com/wyNWX0N.gif"  />
+
+
 
 <p align="left">- 🌱 Currently improving my skills in front-end and back-end development.<br>- 💡 Interested in creating user-friendly web applications and scalable backend systems.<br>- 🚀 Always eager to learn and grow as a developer.</p>
 
 ###
 
-<h2 align="left">🛠️ Tech I’m Learning</h2>
+🛠️ **Tech I’m Learning**
 
 ###
 
