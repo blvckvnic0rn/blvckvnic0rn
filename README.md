@@ -2,6 +2,7 @@
 
 I'm **Rob**, a junior full-stack developer from Rome, Italy. 🇮🇹  
 I love exploring new technologies, learning from real-world projects, and building solutions that make a difference.
+###
 
 ## 🌟 About Me
 
@@ -28,3 +29,7 @@ I love exploring new technologies, learning from real-world projects, and buildi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
+
+
+
+###
