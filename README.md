@@ -1,16 +1,22 @@
-# Hi there! 👋
+<h1 align="left">Hi there! 👋</h1>
 
-I'm **Rob**, a junior full-stack developer from Rome, Italy. 🇮🇹  
-I love exploring new technologies, learning from real-world projects, and building solutions that make a difference.
 ###
 
-## 🌟 About Me
+<p align="left">I'm Rob, a junior full-stack developer from Rome, Italy. 🇮🇹  <br>I love exploring new technologies, learning from real-world projects, and building solutions that make a difference.</p>
 
-- 🌱 Currently improving my skills in front-end and back-end development.
-- 💡 Interested in creating user-friendly web applications and scalable backend systems.
-- 🚀 Always eager to learn and grow as a developer.
+###
 
-## 🛠️ Tech I’m Learning
+<h2 align="left">🌟 About Me</h2>
+
+###
+
+<p align="left">- 🌱 Currently improving my skills in front-end and back-end development.<br>- 💡 Interested in creating user-friendly web applications and scalable backend systems.<br>- 🚀 Always eager to learn and grow as a developer.</p>
+
+###
+
+<h2 align="left">🛠️ Tech I’m Learning</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -30,6 +36,12 @@ I love exploring new technologies, learning from real-world projects, and buildi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
+###
 
+<h2 align="left">❤️ Contribution</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/blvckvnic0rn/blvckvnic0rn/output/snake.svg" alt="Snake animation" />
 
 ###
