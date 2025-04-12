@@ -41,11 +41,3 @@
 </div>
 
 ###
-
-<h2 align="left">❤️ Contribution</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/blvckvnic0rn/blvckvnic0rn/output/snake.svg" alt="Snake animation" />
-
-###
